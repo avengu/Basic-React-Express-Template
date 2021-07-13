@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# webpack generated
+/dist
+/public/js
+
+# if running on a mac, include the following
+.DS_Store
